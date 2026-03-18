@@ -123,7 +123,7 @@ network-security-dashboard/
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/SDL101/network-security-dashboard.git
+git clone https://github.com/Bhuvanbhuvi1221/Network-Security-Dashboard.git
 cd network-security-dashboard
 ```
 
@@ -299,8 +299,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Credits
 
-**Developer**: Scott Lindsay  
-**GitHub**: [@SDL101](https://github.com/SDL101)  
+**Developer**: Team TraceNova  
+**GitHub**: [](https://github.com/Bhuvanbhuvi1221/Network-Security-Dashboard))  
 **Project**: Network Security Dashboard
 
 Built with ❤️ for network security professionals and enthusiasts.
