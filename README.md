@@ -19,8 +19,8 @@ https://github.com/user-attachments/assets/4cfefe09-ed3a-4f96-9dbf-3d78cafaa586
 
 
 <div style="display: flex; justify-content: space-between; margin: 20px 0;">
-  <img src="https://github.com/user-attachments/assets/23301a0f-b56d-4175-954e-0ec7fc8c0fc6" style="width:45%;">
-  <img src="https://github.com/user-attachments/assets/92c742e6-4531-43f0-be73-599aafc25c4a" style="width:45%;">
+  <img src="/Users/mac/Documents/NFSU Internship/network-security-dashboard/frontend/src/assets/Screenshot 2026-03-18 at 3.41.20 PM.png" style="width:45%;">
+  <img src="/Users/mac/Documents/NFSU Internship/network-security-dashboard/frontend/src/assets/Screenshot 2026-03-18 at 3.48.56 PM.png" style="width:45%;">
 </div>
 
 
