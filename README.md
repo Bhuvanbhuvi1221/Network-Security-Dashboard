@@ -301,6 +301,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Developer**: Team TraceNova  
 **GitHub**: https://github.com/Bhuvanbhuvi1221/Network-Security-Dashboard 
+
 **Project**: Network Security Dashboard
 
 Built with ❤️ for network security professionals and enthusiasts.
